@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Manipulator", "File_Manipulator\File_Manipulator.csproj", "{E04487F4-0FF6-4061-80AD-45C741C24000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_Manipulator_Test", "File_Manipulator_Test\File_Manipulator_Test.csproj", "{B382EBDF-7F34-4AB5-A83B-EB0EA838916C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04487F4-0FF6-4061-80AD-45C741C24000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04487F4-0FF6-4061-80AD-45C741C24000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04487F4-0FF6-4061-80AD-45C741C24000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04487F4-0FF6-4061-80AD-45C741C24000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B382EBDF-7F34-4AB5-A83B-EB0EA838916C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B382EBDF-7F34-4AB5-A83B-EB0EA838916C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B382EBDF-7F34-4AB5-A83B-EB0EA838916C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B382EBDF-7F34-4AB5-A83B-EB0EA838916C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {374D7B49-C874-4100-AC30-61F79FCC2330}
+	EndGlobalSection
+EndGlobal
