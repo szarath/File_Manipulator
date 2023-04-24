@@ -3,7 +3,7 @@ This solution is an example of file manipulation by taking the data.csv file,
 reading it and breaking the data in two text files called Names and Addresses.
 
 The solution also consists of tests one for the reading of the file in the main method including the resulting files
-and the second will be the compaing the resulting prased data to a know data to test accuracy. 
+and the second will testing resulting data by comparing what is known already. 
 
 # Files Created
 ![Files created](https://user-images.githubusercontent.com/9131084/233800898-5996c68c-13cd-40a0-8d4d-41c02c66c7af.PNG)
